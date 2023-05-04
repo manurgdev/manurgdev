@@ -18,9 +18,8 @@ Also I have an account on [StackOverflow](https://stackoverflow.com/users/544074
 
 ### Some stats
 
-[![Github Rank](https://github-readme-stats-uhze-gkqsoutdw-manurgdev.vercel.app/api?username=manurgdev&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) <br />
-[![Top Langs](https://github-readme-stats-uhze-gkqsoutdw-manurgdev.vercel.app/api/top-langs/?username=manurgdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Wakatime Stats](https://github-readme-stats-uhze-gkqsoutdw-manurgdev.vercel.app/api/wakatime?username=manurgdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Rank](https://github-readme-stats-uhze-gkqsoutdw-manurgdev.vercel.app/api?username=manurgdev&count_private=true&show_icons=true)](https://github.com/manurgdev)
+[![Top Langs](https://github-readme-stats-uhze-gkqsoutdw-manurgdev.vercel.app/api/top-langs/?username=manurgdev&layout=compact)](https://github.com/manurgdev)
 
 ### Languages and tools that I usually use in my projects:
 
@@ -38,8 +37,3 @@ Also I have an account on [StackOverflow](https://stackoverflow.com/users/544074
 [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
 [![FireBase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![GCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com)
-
-
----
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manurgdev&label=Profile%20views&color=00c2bf&style=for-the-badge" alt="manurgdev" /> </p>
