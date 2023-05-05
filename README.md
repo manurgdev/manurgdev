@@ -20,6 +20,7 @@ Also I have an account on [StackOverflow](https://stackoverflow.com/users/544074
 
 [![Github Rank](https://github-readme-stats-uhze-gkqsoutdw-manurgdev.vercel.app/api?username=manurgdev&count_private=true&show_icons=true)](https://github.com/manurgdev)
 [![Top Langs](https://github-readme-stats-uhze-gkqsoutdw-manurgdev.vercel.app/api/top-langs/?username=manurgdev&layout=compact)](https://github.com/manurgdev)
+[![Wakatime Stats](https://github-readme-stats-uhze-gkqsoutdw-manurgdev.vercel.app/api/wakatime?username=manurgdev&layout=compact&range=last_7_days)](https://github.com/manurgdev)
 
 ### Languages and tools that I usually use in my projects:
 
