@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Manu!</h1>
 <h3 align="center">A passionate full-stack developer. I focus mainly on the JavaScript ecosystem, but due to my experience and taste I still use different PHP-based solutions in my daily work.</h3>
 
-### 💼 Currently working at [Freepik Company](https://www.freepikcompany.com)
+### 💼 Currently working at [Freepik Company](https://www.freepikcompany.com)  using VueJS and Laravel
 
-### 📚 **Learning [Laravel](https://laravel.com/) and [NextJS](https://nextjs.org/) (although I work with them daily, but I'm always trying to improve)**
+### 📚 Learning [Laravel](https://laravel.com/) and [NextJS](https://nextjs.org/). I use both in my side projects
 
-* I'm also improving my English skills 🇬🇧
 ### 🤖 Other interests
 
-**I'm trying to get MidJourney to generate awesome images with my regular prompts 😂. I'm also using our beloved chatGTP and Github Copilot to add some extra convenience to day-to-day life.**
+**I am studying different text-to-image IA tools to understand how they interpret each prompt we provide.. I'm also using our beloved chatGTP and Github Copilot to add some extra convenience to day-to-day life.**
 
 ### If you want to connect with me and have a small talk (always glad to speak with others) you can find me at:
 
