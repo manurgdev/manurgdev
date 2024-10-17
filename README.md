@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manu!</h1>
-<h3 align="center">A passionate full-stack developer. I focus mainly on the JavaScript ecosystem, but due to my experience and taste I still use different PHP-based solutions in my daily work.</h3>
+<h3 align="center">A passionate Frontend Developer. I focus mainly on the JavaScript ecosystem, but due to my experience and taste I still use different PHP-based solutions in my daily work.</h3>
 
 ### 💼 Currently working at [Freepik Company](https://github.com/freepik-company)  using TypeScript, NextJS and VueJS
 
